@@ -1,0 +1,67 @@
+Section 1: Introduction
+4 / 4|12min
+Section 2: How The Internet Works
+1 / 10|24min
+Section 3: History Of The Web
+0 / 6|15min
+Section 4: HTML 5
+0 / 11|40min
+Section 5: Advanced HTML 5
+0 / 10|39min
+Section 6: CSS
+0 / 10|1hr 2min
+Section 7: Advanced CSS
+0 / 12|26min
+Section 8: Bootstrap, Templates, And Building Your Startup Landing Page
+0 / 19|1hr 22min
+Section 9: CSS Grid + CSS Layout
+0 / 17|1hr 16min
+Section 10: Career Of A Web Developer
+0 / 8|40min
+Section 11: Javascript
+0 / 22|2hr 42min
+Section 12: DOM Manipulation
+0 / 11|1hr 26min
+Section 13: Advanced Javascript
+0 / 34|4hr 6min
+Section 14: Command Line
+0 / 4|12min
+Section 15: Developer Environment
+0 / 7|24min
+Section 16: Git Github Open Source Projects
+0 / 11|1hr 4min
+Section 17: A Day In The Life Of A Developer
+0 / 3|10min
+Section 18: NPM + NPM Scripts
+0 / 8|1hr 4min
+Section 19: React.js, React Hooks, Redux
+0 / 25|2hr 57min
+Section 20: HTTP,JSON,AJAX + Asynchronous Javascript
+0 / 12|1hr 41min
+Section 21: Backend Introduction
+0 / 1|12min
+Section 22: APIs
+0 / 5|15min
+Section 23: FINAL PROJECT: SmartBrain Front-End
+0 / 10|2hr 12min
+Section 24: Node.js + Express.js
+0 / 20|1hr 58min
+Section 25: FINAL PROJECT: SmartBrain Back-End -- Server
+0 / 12|1hr 40min
+Section 26: Databases
+0 / 13|56min
+Section 27: FINAL PROJECT: SmartBrain Back-End -- Database
+0 / 11|1hr 3min
+Section 28: Production + Deployment
+0 / 13|1hr 39min
+Section 29: Where To Go From Here
+0 / 8|9min
+Section 30: Bonus: Extra Bits
+0 / 3|58min
+Section 31: Extra Learning: React Hooks
+0 / 10|46min
+Section 32: Extra Learning: Redux
+0 / 13|1hr 57min
+Section 33: Extra: For Windows Users
+0 / 6|25min
+Section 34: BONUS SECTION

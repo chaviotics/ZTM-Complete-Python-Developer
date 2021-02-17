@@ -1,0 +1,10 @@
+# Operator Precedence
+
+# PEMDAS
+
+# ()
+# **
+# *
+# /
+# +
+# -
